@@ -1,0 +1,27 @@
+:root {
+	--main-bg-color: green;
+	--main-txt-color: yellow;
+	--main-padding: 10px;
+	--main-text-align: justify;
+}
+
+#etmologia {
+	background-color: var(--main-bg-color);
+	color: var(--main-txt-color);
+	padding: var(--main-padding);
+	text-align: var(--main-text-align);
+}
+
+#definição {
+	background-color: var(--main-bg-color);
+	color: var(--main-txt-color);
+	padding: var(--main-padding);
+	text-align: var(--main-text-align);
+}
+
+#evolução {
+	background-color: var(--main-bg-color);
+	color: var(--main-txt-color);
+	padding: var(--main-padding);
+	text-align: var(--main-text-align);
+}
